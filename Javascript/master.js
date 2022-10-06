@@ -12,12 +12,6 @@ var skills = ["HTML-100%","CSS-98%","JAVASCRIPT-71%","PYTHON-65%"];
       var i = 0;
       var skillindex = 0;
 
-      while(count >0){
       
-          }
-
-        }
-
-        i = 0;
 
       }
